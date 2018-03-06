@@ -1,0 +1,10 @@
+# Naive Bayes classification
+Naive Bayes classification is a supervised learning algorithm which is used to classify data into predefined classes.
+It uses the concept of conditional probability to classify the test data that is based on applying Baye's theorem
+## Conditional Probability
+It helps us to find the probability that something will happen given that something will happen given that something else has happened
+Consider two events A and B, then conditional probability is given as;
+### P(A and B) = P(A) * P(B | A)
+## Bayes' theorem
+Bayes’ theorem describes the probability of an event, based on prior knowledge of conditions that might be related to the event
+### P(L | features) = P(features | L) P (L) / P(features)
