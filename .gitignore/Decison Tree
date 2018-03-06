@@ -1,0 +1,6 @@
+# Decision tree
+A decision tree is a supervised learning method used for classification and regression. A decision tree is a predictor that predicts the label y associated with the features x by traveling from root to the leaf node
+## Regression tree
+Decision tree where target variable is continuous is known as regression tree
+## Classification tree
+Decision tree where target variable is discrete or qualitative.
