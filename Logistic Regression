@@ -1,0 +1,7 @@
+# Logistic regression
+Despite its name logistic regression is a classification algorithm for classification. The logistic function is the main function used in logistic regression 
+## Logistic function
+The logistic function measures the relationship between the categorical dependent variable and one or more independent variables by estimating probabilities using a logistic function.
+The logistic function is mathematically represented as;
+                                              
+p(X) = eβ0+β1X/(1 + eβ0+β1X)
