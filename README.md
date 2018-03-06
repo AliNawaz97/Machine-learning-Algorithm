@@ -1,5 +1,5 @@
 # Machine-learning-Algorithm
-## Provide information of basics and eminent algorithm of machine learning  
+Provide information of basics and eminent algorithm of machine learning  
 ### Linear Regression
 ### Logistic Regression
 ### Decision tree
