@@ -1,0 +1,4 @@
+# K nearest neighbor
+KNN is the simplest machine learning algorithm that is used for classificatiion problem. 
+Whenever the model is fed with testing data it find the distance of that point with every other point in the training data.
+Then it finds nearest k members for that point
