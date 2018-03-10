@@ -2,3 +2,7 @@
 KNN is the simplest machine learning algorithm that is used for classificatiion problem. 
 Whenever the model is fed with testing data it find the distance of that point with every other point in the training data.
 Then it finds nearest k members for that point
+# Steps in KNN
+Find the most similar instances(let's call them X-NN) to X-test that are in X-train
+Get the labal Y-NN for the instances in X-NN
+Predict the label for X-test by combining the labals Y-NN.
