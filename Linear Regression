@@ -9,6 +9,6 @@ Y = β0 + β1X.
 Predict quantitative variable on the basis of multiple variables
 Y = β0 + β1X1 + β2X2 + · · · + βpXp + ε
 # Steps involve in linear regression
-Calculate the mean of X values and Y values
-Calculate the slope of line
-Calculate the Y-intercept of the line
+Calculate the mean of X values and Y values which may be X^bar and Y^bar
+Calculate the slope of line m
+Calculate the Y-intercept of the line by using c = Y^bar - mX^bar
