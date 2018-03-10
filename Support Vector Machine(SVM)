@@ -1,0 +1,5 @@
+# Support Vector Machine
+Support Vector machine is a supervised machine learning algorithm which can be used for both classification and regression problems. The goal of SVM is to find hyperplane which divides the two cllasses of data.
+A hyperplane which divide two classes with maximum distances is called as optimal hyperplane.
+SVM is mostly used for classification. In classication SVM, hyperplane separate features from each other.
+SVM is used in text categorization, image segmentation and Handwriitten recognition.
