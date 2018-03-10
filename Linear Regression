@@ -8,3 +8,7 @@ Y = β0 + β1X.
 ### 2. Multiple linear regression
 Predict quantitative variable on the basis of multiple variables
 Y = β0 + β1X1 + β2X2 + · · · + βpXp + ε
+# Steps involve in linear regression
+Calculate the mean of X values and Y values
+Calculate the slope of line
+Calculate the Y-intercept of the line
