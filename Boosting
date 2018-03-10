@@ -1,0 +1,5 @@
+# Boosting 
+Boosting is a general ensemble method that create a strong learner from a number of weak learner. 
+A weak learner is defined to be a classifier that is only slightly correlated with the true classification.
+A strong learner is a classifier that is arbitrarily well-correlated with the true classification.
+This is done by building a model from a training data, then create a second model that attempt to correct the error from the first model.
