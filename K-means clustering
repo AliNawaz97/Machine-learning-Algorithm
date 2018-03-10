@@ -1,0 +1,9 @@
+# K-means clustering
+Clustering means the grouping of similar data.
+There are a lot of clustering algorithms but one of the most common is k-means clustering.
+# Steps in K-means algorithm 
+Assign random centroids(k-centroid)
+Calculate distance from every point for every centroid
+Assign points to those centroids with minimum distance and make clusters
+Calculate mean from each cluster
+Repeat step 2-4 till get same clusters
