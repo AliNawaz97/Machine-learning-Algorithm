@@ -1,5 +1,5 @@
 # Machine-learning-Algorithm
-Provide information of basics and eminent algorithm of machine learning  
+In this repository, I have described the short but effective knowledge of following basics and eminent algorithm of machine learning for beginner  
 ### Linear Regression
 ### Logistic Regression
 ### Decision tree
